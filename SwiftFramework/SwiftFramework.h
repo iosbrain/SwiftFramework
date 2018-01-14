@@ -2,7 +2,7 @@
 //  SwiftFramework.h
 //  SwiftFramework
 //
-/* Copyright (c) 2017 Andrew Jaffee, microIT Infrastructure, LLC, and
+/* Copyright (c) 2018 Andrew Jaffee, microIT Infrastructure, LLC, and
  iosbrain.com.
  
  Permission is hereby granted, free of charge, to any person obtaining a copy
